@@ -1,4 +1,4 @@
-# Protótipo de Telas #
+# Protótipo de Telas  do Sistema #
 ## Página Inicial ##
 ![Protótipo da Página Home ](/imagens/Home.png)
 ## Página de Reservas ##

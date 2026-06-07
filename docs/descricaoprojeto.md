@@ -5,8 +5,45 @@
 O projeto de documentação Karaokê e Bar visa organizar e fornecer uma visão geral das funções e ações do projeto. Ele descreve os objetivos do projeto, seus requisitos principais e funcionais, o diagrama de caso de uso e de classes, além dos stakeholders envolvidos e possíveis protótipos de telas para o futuro site.
 
 ## **Canvas** ## 
-<img src="/imagens/Canva1.png" alt="Canvas 1" width="1500">
-<img src="/imagens/Canva.png" alt="Canvas 2" width="1500">
+![Imagem Canvas 1](/imagens/Canva1.png)
+
+<div style="margin-top:10px;">
+  <a
+    href="https://devsis120261-0jun--5173--bd880c29.local-corp.webcontainer.io/imagens/Canva1.png"
+    rel="noopener noreferrer"
+    style="
+      display:inline-block;
+      padding:8px 16px;
+      background:#8b5cf6;
+      color:white;
+      text-decoration:none;
+      border-radius:6px;
+      font-weight:600;
+    "
+  >
+    🔍 Ampliar imagem
+  </a>
+</div>
+
+![Imagem Canvas 2](/imagens/Canva.png)
+
+<div style="margin-top:10px;">
+  <a
+    href="https://devsis120261-0jun--5173--bd880c29.local-corp.webcontainer.io/imagens/Canva.png"
+    rel="noopener noreferrer"
+    style="
+      display:inline-block;
+      padding:8px 16px;
+      background:#8b5cf6;
+      color:white;
+      text-decoration:none;
+      border-radius:6px;
+      font-weight:600;
+    "
+  >
+    🔍 Ampliar imagem
+  </a>
+</div>
 
 ## **Stakeholders** ## 
 
