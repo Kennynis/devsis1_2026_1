@@ -1,6 +1,6 @@
 
 # **Descrição de Caso de Uso** #
-Um dos principais casos de uso do sistema é a Reserva de Sala, realizada pelo Cliente. Para fazer a reserva, o sistema exige obrigatoriamente que o cliente selecione uma playlist, escolha o tamanho da sala e realize o pagamento, podendo ser por meio de cartão de crédito, débito ou PI). Por outro lado, o cliente também pode, não tendo obrigatoriedade, cancelar uma reserva (o que pode ou não gerar um pedido de reembolso), consultar reserva, reagendar reserva e comprar produtos antecipadamente para consumir no local.
+Um dos principais casos de uso do sistema é a Reserva de Sala, realizada pelo Cliente. Para fazer a reserva, o sistema exige obrigatoriamente que o cliente selecione uma playlist, escolha o tamanho da sala e realize o pagamento, podendo ser por meio de cartão de crédito, débito ou PIX). Por outro lado, o cliente também pode, não tendo obrigatoriedade, cancelar uma reserva (o que pode ou não gerar um pedido de reembolso), consultar reserva, reagendar reserva e comprar produtos antecipadamente para consumir no local.
 Outro caso de uso importante é a geração de relatórios pelo funcionário. Ele pode gerar quatro tipos de relatórios: de salas agendadas, financeiro de compras, fluxo de agendamento e fluxo de vendas de produtos. É importante ressaltar que o funcionário herda todas as funções que podem ser realizadas pelo cliente.
 
 
@@ -8,7 +8,7 @@ Outro caso de uso importante é a geração de relatórios pelo funcionário. El
 
 <div style="margin-top:10px;">
   <a
-    href="https://devsis120261-0jun--5173--bd880c29.local-corp.webcontainer.io/imagens/Casoeuso.png"
+    href="/imagens/Casoeuso.png"
     rel="noopener noreferrer"
     style="
       display:inline-block;

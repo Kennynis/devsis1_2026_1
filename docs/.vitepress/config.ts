@@ -10,10 +10,13 @@ export default defineConfig({
     nav: [
       { text: 'Introdução', link: '/introducao' },
       { text: 'Descrição Do Projeto', link: '/descricaoprojeto' },
+      { text: 'Principais Recursos', link: '/principaisrecursos' },
       { text: 'Diagrama de Caso e Uso', link: '/diagramadecaso' },
       { text: 'Diagrama de Entidade', link: '/diagramaentidade' },
       { text: 'Protótipo de Telas', link: '/prototipodetelas' },
+      { text: 'Cronograma e Entrega', link: '/cronograma' },
       { text: 'Considerações Finais', link: '/consideracoesfinais' },
+     
 
       /* {
         text: 'Dropdown Menu',
@@ -33,9 +36,11 @@ export default defineConfig({
         items: [
           { text: 'Introdução', link: '/introducao' },
           { text: 'Descrição Do Projeto', link: '/descricaoprojeto' },
+          { text: 'Principais Recursos', link: '/principaisrecursos' },
           { text: 'Diagrama de Caso e Uso', link: '/diagramadecaso' },
           { text: 'Diagrama de Entidade', link: '/diagramaentidade' },
           { text: 'Protótipo de Telas', link: '/prototipodetelas' },
+          { text: 'Cronograma e Entrega', link: '/cronograma' },
           { text: 'Considerações Finais', link: '/consideracoesfinais' },
           
          

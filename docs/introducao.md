@@ -1,7 +1,7 @@
-# **Introdução** # 
-### <a name="_9fkjqfsjvxr"></a>**Objetivo Geral**
+# **Introdução** #  
+## <a name="_9fkjqfsjvxr"></a> **Objetivo Geral**  ## 
 Desenvolver e implementar um sistema web para gerenciar reservas de salas, divulgar o estabelecimento e facilitar o controle operacional do Karaokê & Bar.
-### <a name="_3ei21yk0xabt"></a>**Objetivos Específicos**
+## <a name="_3ei21yk0xabt"></a>  **Objetivos Específicos**  ## 
 - Desenvolver um website para o Karaokê & Bar no prazo de até 6 meses, contendo informações sobre o estabelecimento, opção de reservas online (incluindo a compra antecipada de itens para consumo), localização do estabelecimento, informações de contato e uma breve história do local.
 - Permitir que os clientes realizem pagamentos online por meio de PIX, cartão de crédito ou cartão de débito, garantindo a confirmação da reserva após validação do pagamento. 
 - Implementar, até a conclusão do projeto, uma área administrativa destinada aos funcionários do estabelecimento, na qual seja possível acessar e gerenciar informações referentes às:
@@ -13,11 +13,11 @@ Desenvolver e implementar um sistema web para gerenciar reservas de salas, divul
 - Promover um treinamento pré-implementação: que envolve capacitação da equipe em atendimento de qualidade e adequação ao novo sistema.
 
 
-**Público-alvo**
+ ##  **Público-alvo** ## 
 
 Este documento destina-se a todas as partes interessadas envolvidas no desenvolvimento, implementação e uso do software Karaokê & Bar. Isso inclui membros da equipe de desenvolvimento, gerentes de projeto, clientes, usuários finais e outras partes interessadas relevantes.
 
-**Minimundo Karaokê e Bar**
+ ##  **Minimundo Karaokê e Bar**  ## 
 
 O Karaokê & Bar deseja implementar um sistema para gerenciar suas operações administrativas, agendamentos de salas e vendas de produtos. O estabelecimento opera com um modelo de exclusividade: o acesso ao espaço de convivência e a compra de produtos no bar são restritos a clientes com reservas ativas, e **o uso do karaokê é obrigatório para utilização de todas as salas e uso completo do bar**. 
 

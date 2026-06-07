@@ -4,12 +4,13 @@
 
 O projeto de documentação Karaokê e Bar visa organizar e fornecer uma visão geral das funções e ações do projeto. Ele descreve os objetivos do projeto, seus requisitos principais e funcionais, o diagrama de caso de uso e de classes, além dos stakeholders envolvidos e possíveis protótipos de telas para o futuro site.
 
-## **Canvas** ## 
+## Canvas ##
+
 ![Imagem Canvas 1](/imagens/Canva1.png)
 
 <div style="margin-top:10px;">
   <a
-    href="https://devsis120261-0jun--5173--bd880c29.local-corp.webcontainer.io/imagens/Canva1.png"
+    href="/imagens/Canva1.png"
     rel="noopener noreferrer"
     style="
       display:inline-block;
@@ -24,12 +25,14 @@ O projeto de documentação Karaokê e Bar visa organizar e fornecer uma visão 
     🔍 Ampliar imagem
   </a>
 </div>
+
+
 
 ![Imagem Canvas 2](/imagens/Canva.png)
 
 <div style="margin-top:10px;">
   <a
-    href="https://devsis120261-0jun--5173--bd880c29.local-corp.webcontainer.io/imagens/Canva.png"
+    href="/imagens/Canva.png"
     rel="noopener noreferrer"
     style="
       display:inline-block;
@@ -45,7 +48,7 @@ O projeto de documentação Karaokê e Bar visa organizar e fornecer uma visão 
   </a>
 </div>
 
-## **Stakeholders** ## 
+## Stakeholders ## 
 
 Gerentes do projeto - responsáveis por acompanhar o andamento do projeto, coordenar as equipes e mitigar riscos.
 
