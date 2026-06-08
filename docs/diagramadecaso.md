@@ -84,6 +84,6 @@ Este caso de uso permite que o Cliente realize a reserva de uma sala de karaokê
   </a>
 </div>
 
-Outro caso de uso importante é a geração de relatórios pelo funcionário. Ele pode gerar quatro tipos de relatórios: de salas agendadas, financeiro de compras, fluxo de agendamento e fluxo de vendas de produtos. É importante ressaltar que o funcionário herda todas as funções que podem ser realizadas pelo cliente.
+
 
 
