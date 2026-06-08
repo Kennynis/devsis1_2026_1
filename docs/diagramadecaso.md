@@ -62,7 +62,7 @@ Este caso de uso permite que o Cliente realize a reserva de uma sala de karaokê
 * Nenhum horário é bloqueado permanentemente.
 * O cliente é informado do motivo da falha.
 
-# **Diagrama de Caso de Uso** #
+## **Diagrama de Caso de Uso** ##
 
 ![Imagem Diagrama de Entidade](/imagens/Casoeuso.png)
 
