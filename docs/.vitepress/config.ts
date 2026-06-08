@@ -11,41 +11,37 @@ export default defineConfig({
       { text: 'Introdução', link: '/introducao' },
       { text: 'Descrição Do Projeto', link: '/descricaoprojeto' },
       { text: 'Principais Recursos', link: '/principaisrecursos' },
-      { text: 'Diagrama de Casos de Uso', link: '/diagramadecaso' },
-      { text: 'Diagrama de Entidade', link: '/diagramaentidade' },
-      { text: 'Protótipo de Telas', link: '/prototipodetelas' },
-      { text: 'Cronograma e Entrega', link: '/cronograma' },
-      { text: 'Considerações Finais', link: '/consideracoesfinais' },
-     
-
-      /* {
-        text: 'Dropdown Menu',
+    
+      {
+        text: 'Diagramas',
         items: [
-        { text: 'Item A', link: '/item-1' },
-        { text: 'Item B', link: '/item-2' },
-        { text: 'Item C', link: '/item-3' },
-         ],
+          { text: 'Diagrama de Casos de Uso', link: '/diagramadecaso' },
+          { text: 'Diagrama de Entidade', link: '/diagramaentidade' },
+        ],
       },
-
-      */ 
+    
+      {
+        text: 'Mais',
+        items: [
+          { text: 'Protótipo de Telas', link: '/prototipodetelas' },
+          { text: 'Cronograma e Entrega', link: '/cronograma' },
+          { text: 'Considerações Finais', link: '/consideracoesfinais' },
+        ],
+      },
     ],
 
     sidebar: [
       {
-         text: 'Outras Páginas',
+        text: 'Outras Páginas',
         items: [
           { text: 'Introdução', link: '/introducao' },
-          { text: 'Descrição Do Projeto', link: '/descricaoprojeto' },
+          { text: 'Descrição do Projeto', link: '/descricaoprojeto' },
           { text: 'Principais Recursos', link: '/principaisrecursos' },
           { text: 'Diagrama de Casos de Uso', link: '/diagramadecaso' },
           { text: 'Diagrama de Entidade', link: '/diagramaentidade' },
           { text: 'Protótipo de Telas', link: '/prototipodetelas' },
           { text: 'Cronograma e Entrega', link: '/cronograma' },
           { text: 'Considerações Finais', link: '/consideracoesfinais' },
-          
-         
-          
-     
         ],
       },
     ],

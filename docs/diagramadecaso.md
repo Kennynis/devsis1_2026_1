@@ -33,20 +33,12 @@ Este caso de uso permite que o Cliente realize a reserva de uma sala de karaokê
 
 ### A1 – Falha no pagamento ###
 
-9a. O pagamento não é autorizado ou ocorre um erro na transação.
+1. O pagamento não é autorizado ou ocorre um erro na transação.
 
-9a1. O sistema informa a falha ao cliente.
-9a2. O cliente pode tentar novamente ou escolher outro método de pagamento.
-9a3. Caso o pagamento seja realizado com sucesso, o fluxo retorna ao passo 10.
-9a4. Caso o cliente desista, a reserva não é concluída.
-
-### A2 – Tamanho da sala não selecionado
-
-4a. O cliente tenta prosseguir sem escolher o tamanho da sala.
-
-4a1. O sistema informa que a escolha do tamanho da sala é obrigatória.
-4a2. O cliente seleciona o tamanho da sala.
-4a3. O fluxo retorna ao passo 5.
+1.1 O sistema informa a falha ao cliente.
+1.2 O cliente pode tentar novamente ou escolher outro método de pagamento.
+1.3 Caso o pagamento seja realizado com sucesso, o fluxo retorna ao passo 10.
+1.4 Caso o cliente desista, a reserva não é concluída.
 
 ## Pós-condições ##
 
