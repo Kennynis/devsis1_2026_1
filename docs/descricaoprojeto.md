@@ -1,8 +1,11 @@
 ﻿# **Visão Geral do Projeto** #
 
+O sistema do Karaokê & Bar terá uma área voltada aos clientes, onde eles poderão conhecer o estabelecimento, seus serviços e obter informações gerais. Além disso, o sistema permitirá a realização de reservas de salas, a compra antecipada de produtos para consumo no dia da reserva, a escolha de playlists, a realização de pagamentos online e o cancelamento de reservas quando necessário.
 
+O sistema também contará com uma área administrativa destinada aos funcionários, na qual será possível gerenciar usuários, reservas de salas, produtos e vendas. Além disso, os funcionários poderão gerar e acompanhar relatórios gerenciais para auxiliar na administração do estabelecimento.
 
-O projeto de documentação Karaokê e Bar visa organizar e fornecer uma visão geral das funções e ações do projeto. Ele descreve os objetivos do projeto, seus requisitos principais e funcionais, o diagrama de caso de uso e de classes, além dos stakeholders envolvidos e possíveis protótipos de telas para o futuro site.
+Por fim,  projeto de documentação Karaokê e Bar visa organizar e fornecer uma visão geral das funções e ações do projeto. Ele descreve os objetivos do projeto, seus requisitos principais e funcionais, o diagrama de caso de uso e de classes, além dos stakeholders envolvidos e possíveis protótipos de telas para o futuro website.
+
 
 ## Canvas ##
 

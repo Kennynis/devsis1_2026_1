@@ -1,3 +1,5 @@
+![Logo do Karaoke e Bar ](/imagens/logo.png)
+
 # **Introdução** #  
 ## <a name="_9fkjqfsjvxr"></a> **Objetivo Geral**  ## 
 Desenvolver e implementar um sistema web para gerenciar reservas de salas, divulgar o estabelecimento e facilitar o controle operacional do Karaokê & Bar.
@@ -12,6 +14,9 @@ Desenvolver e implementar um sistema web para gerenciar reservas de salas, divul
 - Realizar a divulgação do website por meio de redes sociais e ferramentas de tráfego pago, de modo a atrair mais clientes.
 - Promover um treinamento pré-implementação: que envolve capacitação da equipe em atendimento de qualidade e adequação ao novo sistema.
 
+
+## **Escopo** ##
+Este projeto visa desenvolver um sistema web (website) para do Karaokê & Bar, que terá como finalidade principal facilitar os processos de reserva de salas, mas também auxiliar no controle de produtos e atividades administrativas. O sistema se destina aos clientes e possíveis novos clientes do Karaokê & Bar, assim como os funcionários do estabelecimento.
 
  ##  **Público-alvo** ## 
 

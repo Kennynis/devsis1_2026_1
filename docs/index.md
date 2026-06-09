@@ -4,8 +4,11 @@ layout: home
 
 hero:
   name: KARAOKÊ
-  text: E BAR
-  tagline: O lugar perfeito para reunir amigos, cantar suas músicas favoritas e criar momentos inesquecíveis. No Meu Karaoke & Bar, diversão, boa música e um ambiente acolhedor se encontram para proporcionar uma experiência única para todos os públicos.
+  text: E BAR 
+  tagline: <br>Documento de Visão.<br>Nome do Projeto Karaokê & Bar.<br>Data:08/06/2026<br>Nome Integrantes:<br>Arthur F., Ellen J., Eric Z., Ewerton S., Gabriela N., Jasper D.<br>  Organização
+  image:
+    src: /imagens/logo.png 
+    alt: Logo Karaokê & Bar
   actions:
     - theme: brand
       text: Quero Conhecer
@@ -13,6 +16,7 @@ hero:
     - theme: alt
       text: Protótipo de Telas
       link: /prototipodetelas
+      
       
 ---
 <style>
@@ -60,4 +64,17 @@ hero:
   border-color: #facc15 !important;
   color: #facc15 !important;
 }
+
+
+/*Tirar limite de tamanho */
+.VPHero .image-src {
+  max-width: 700px !important;
+  max-height: 700px !important;
+}
+/*aumentar tamanho da img */
+.VPHero .image-src {
+  width: 580px !important;
+  height: auto !important;
+}
+
 </style>
